@@ -1,4 +1,4 @@
-package Hackathon;
+package Hackathon_Phase1;
 import java.util.Scanner;
 public class WaterUsageDetails_3{
 
